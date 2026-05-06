@@ -22,7 +22,7 @@ export const projects: Project[] = [
     ],
     description: 'A single Afrobeat production track showcasing intricate drum patterns, rich chord progressions, and captivating melodies. This production represents the full spectrum of Afrobeat elements with modern production polish, created as a standalone piece highlighting individual instrumental layers and rhythmic complexity.',
     credits: ['Produced by Byiringiro Heritier', 'Arrangement by Heritage Studios'],
-    audioUrl: '/AFROBEAT DRUM+CHORDS+MELODY.mp3'
+    audioUrl: '/AFROBEAT_DRUM+CHORDS+MELODY.mp3'
   },
   {
     id: 'afrobeat-drums',
@@ -36,7 +36,7 @@ export const projects: Project[] = [
     ],
     description: 'A focused Afrobeat drum arrangement production that highlights the percussive complexity of the genre. This single track features traditional African polyrhythms processed through modern electronic production, creating a powerful rhythmic foundation that exemplifies the drum-focused nature of Afrobeat music production.',
     credits: ['Drum Programming by Byiringiro Heritier', 'Percussion by Heritage Collective'],
-    audioUrl: '/AFROBEAT DRUMS ARRANGEMENT.mp3'
+    audioUrl: '/AFROBEAT_DRUMS_ARRANGEMENT.mp3'
   },
   {
     id: 'afrobeat-evolution',
@@ -49,7 +49,7 @@ export const projects: Project[] = [
     ],
     description: 'An evolutionary Afrobeat production that pushes the boundaries of traditional genre conventions while honoring its rhythmic roots. This single track features sophisticated drum programming with contemporary electronic elements, enriched chord progressions that blend African harmonic sensibilities with modern music theory, and innovative melodic structures that showcase the evolution of Afrobeat sound. The production demonstrates advanced audio techniques including layered percussion, dynamic sound design, and polished arrangement that bridges classic Afrobeat with forward-thinking production aesthetics.',
     credits: ['Produced by Byiringiro Heritier', 'Evolutionary Sound Design by Heritage Studios', 'Modern Arrangement by Analog Lab'],
-    audioUrl: '/AFROBEAT EVOLUTION DRUM+CHORDS+MELODY.mp3'
+    audioUrl: '/AFROBEAT_EVOLUTION_DRUM+CHORDS+MELODY.mp3'
   },
   {
     id: 'african-style-mixed',
@@ -62,7 +62,7 @@ export const projects: Project[] = [
     ],
     description: 'A sophisticated fusion production that seamlessly blends traditional African musical elements with contemporary Afrobeat rhythms and sweet violin melodies. This single track creates a unique sonic landscape where African percussion patterns meet modern electronic production, enriched by emotive violin arrangements that add depth and cultural authenticity. The production showcases advanced layering techniques, dynamic range processing, and innovative arrangement that bridges African heritage with modern production sensibilities.',
     credits: ['Produced by Byiringiro Heritier', 'African Elements by Heritage Collective', 'Sweet Violin Arrangement by Sound Architects'],
-    audioUrl: '/AFRICAN STYLE MIXED WITH AFROBEAT AND SWEET VIOLINS MELODIES.mp3'
+    audioUrl: '/AFRICAN_STYLE_MIXED_WITH_AFROBEAT_AND_SWEET_VIOLINS_MELODIES.mp3'
   },
   {
     id: 'afrobeat-drum-chords',
@@ -89,7 +89,7 @@ export const projects: Project[] = [
     ],
     description: 'A single Amapiano production track featuring the signature log drum basslines that define South Africa\'s premier house music genre. This individual track combines characteristic Amapiano drum patterns with syncopated percussion elements, creating the infectious rhythm that showcases the unique blend of deep house, jazz, and local South African sounds.',
     credits: ['Produced by Byiringiro Heritier', 'Amapiano Elements by SA Collective'],
-    audioUrl: '/AMAPIANO DRUM BEATS ARRANGEMENT.mp3'
+    audioUrl: '/AMAPIANO_DRUM_BEATS_ARRANGEMENT.mp3'
   },
   {
     id: 'afro-gako',
@@ -103,7 +103,7 @@ export const projects: Project[] = [
     ],
     description: 'A single experimental production track that bridges traditional Rwandan Afro Gako drumming patterns with contemporary electronic music production. This individual piece explores the fusion of heritage African drumming techniques with modern sound design, pushing the boundaries of what traditional rhythms can achieve in a digital audio landscape.',
     credits: ['Drum Arrangement by Byiringiro Heritier', 'Traditional Elements by Heritage Collective'],
-    audioUrl: '/NEW AFRO GAKO DRUM ARRANGEMENT.mp3'
+    audioUrl: '/NEW_AFRO_GAKO_DRUM_ARRANGEMENT.mp3'
   },
   {
     id: 'traditional-beat',
@@ -116,6 +116,6 @@ export const projects: Project[] = [
     ],
     description: 'A single traditional beat production that serves as both a tribute to African musical heritage and a foundation for contemporary production. This individual track explores authentic African rhythmic structures, preserving the cultural essence while demonstrating how these timeless patterns can be integrated into modern music production workflows.',
     credits: ['Traditional Arrangement by Byiringiro Heritier', 'Cultural Consultation by Heritage Elders'],
-    audioUrl: '/TRADITIONAL TRIAL BEAT.mp3'
+    audioUrl: '/TRADITIONAL_TRIAL_BEAT.mp3'
   },
   ];
